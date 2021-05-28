@@ -1,4 +1,4 @@
-# DataMiningProject
+# DataMiningProject Impact Of Covid-19 In Economy Of Kosovo
 
 Purpose Of The Project
 
