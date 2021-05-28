@@ -1,4 +1,4 @@
-# DataminingProject
+# DataMiningProject
 
 Purpose Of The Project
 
